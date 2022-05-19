@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PinkyPromise.iml" filepath="$PROJECT_DIR$/.idea/modules/PinkyPromise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PinkyPromise.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PinkyPromise.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/300427238/PinkyPromise.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/300427238/PinkyPromise.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1232474861/PinkyPromise.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1232474861/PinkyPromise.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1997883690/PinkyPromise.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1997883690/PinkyPromise.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/334415820/PinkyPromise.react-native-contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/334415820/PinkyPromise.react-native-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-802176972/PinkyPromise.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-802176972/PinkyPromise.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1986894747/PinkyPromise.react-native-fbsdk-next.iml" filepath="$PROJECT_DIR$/.idea/modules/1986894747/PinkyPromise.react-native-fbsdk-next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-448522515/PinkyPromise.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-448522515/PinkyPromise.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1399559674/PinkyPromise.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1399559674/PinkyPromise.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/381984864/PinkyPromise.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/381984864/PinkyPromise.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/171428607/PinkyPromise.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/171428607/PinkyPromise.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/164056962/PinkyPromise.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/164056962/PinkyPromise.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1727911435/PinkyPromise.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/-1727911435/PinkyPromise.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/306128655/PinkyPromise.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/306128655/PinkyPromise.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-882038762/PinkyPromise.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-882038762/PinkyPromise.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747028910/PinkyPromise.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1747028910/PinkyPromise.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-368235036/PinkyPromise.sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-368235036/PinkyPromise.sentry_react-native.iml" />
+    </modules>
+  </component>
+</project>

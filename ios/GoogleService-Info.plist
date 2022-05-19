@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>925115227275-krp7agpouo67djg4f4psqa48qkbcgpao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.925115227275-krp7agpouo67djg4f4psqa48qkbcgpao</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAuXYRth5rEWOZoTZTjSLW5Lgpu6E2P3s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925115227275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cloudtenlabs.pinkypromisesmall</string>
+	<key>PROJECT_ID</key>
+	<string>pinkypromise-77e93</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pinkypromise-77e93.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925115227275:ios:488c44fc6d3da0c4a7088e</string>
+	<key>DATABASE_URL</key>
+	<string>https://pinkypromise-77e93-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

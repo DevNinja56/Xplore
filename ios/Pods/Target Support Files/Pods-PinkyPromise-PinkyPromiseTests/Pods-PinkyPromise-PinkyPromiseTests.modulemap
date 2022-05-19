@@ -1,0 +1,6 @@
+module Pods_PinkyPromise_PinkyPromiseTests {
+  umbrella header "Pods-PinkyPromise-PinkyPromiseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
